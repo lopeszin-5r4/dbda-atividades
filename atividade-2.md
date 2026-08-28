@@ -12,7 +12,7 @@
 - [ ] d) DML, pois manipula os dados armazenados
 - [ ] e) Nenhuma etapa de levantamento é necessária: basta desenhar diretamente o Modelo Entidade-Relacionamento a partir da experiência da equipe
 
-**Justificativa:**  o levantamento de dados e regras de negócio com os usuários caracteriza a fase de análise de requisitos
+**Justificativa:** nessa fase são levantadas com os usuários as informações que o sistema vai precisar e as regras que ele deve seguir
 
 **2.** No Modelo Entidade-Relacionamento de uma loja, a entidade "Pedido" se relaciona com a entidade "Produto": um pedido pode conter vários produtos, e um mesmo produto pode aparecer em vários pedidos diferentes. Que tipo de relacionamento é esse?
 
