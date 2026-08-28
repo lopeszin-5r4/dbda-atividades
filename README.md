@@ -1,0 +1,5 @@
+# dbda-atividades
+
+**Nome completo:** Marcio-Luis-Lopes-Junior
+
+Repositório de entrega das atividades avaliativas de Banco de Dados.
